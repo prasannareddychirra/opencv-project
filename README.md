@@ -1,6 +1,5 @@
 # Cloud Chamber 
 
-##### Note: we have to use python version as 3.9  
 
 ## Flask Webcam Face Detection
 
@@ -33,7 +32,7 @@ python check_cameras_availability.py
 The script will print the availability status of each camera index and provide a list of detected cameras.
 
 Example:
-![Webcam Face Detection Indexes](/cameras.png) 
+![Webcam Face Detection Indexes](/images/cameras.png) 
 ## Detect the faces
 
 - Run the flask app 
