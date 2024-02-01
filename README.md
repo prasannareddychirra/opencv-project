@@ -14,7 +14,7 @@ This Flask web application captures video from the webcam, performs face detecti
 
 Install the required dependencies:
 
-```bash
+```shell
 pip install flask opencv-python mediapipe
 ```
 
@@ -25,7 +25,7 @@ This Python script uses OpenCV to detect available cameras on the system.
 #### Usage
 
 - Detect the cameras using this script
-```bash
+```shell
 python check_cameras_availability.py
 ```
 #### Output
@@ -36,7 +36,7 @@ Example:
 ## Detect the faces
 
 - Run the flask app 
-```bash
+```shell
 python flask_app_for_camera.py
 ```
 - Open your web browser and go to http://localhost:8200/ to view the live video feed with face detection.
