@@ -3,3 +3,6 @@
   ```shell
   export DISPLAY=:0
   ```
+
+Errot Message:
+![Error Message](/images/error_display.png) 
