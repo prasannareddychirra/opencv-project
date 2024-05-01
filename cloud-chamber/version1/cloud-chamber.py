@@ -37,7 +37,7 @@ def process_frame(frame):
     return white_areas_count
 
 # Open a video capture object (replace 'your_video_file.mp4' with the actual video file name)
-cap = cv2.VideoCapture('CloudChamber.mp4')
+cap = cv2.VideoCapture('IMG_7313.MOV')
 
 while True:
     ret, frame = cap.read()
